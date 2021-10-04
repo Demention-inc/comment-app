@@ -1,6 +1,6 @@
 src/mp4/* 
 src/short/* 
-src/csv/* 
+src/csv/*.csv
 src/json/* 
 src/hash_data/* 
 .history/
