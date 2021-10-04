@@ -4,10 +4,7 @@ import shutil
 import numpy as np
 import pandas as pd
 import os
-from matplotlib import pyplot as plt
-import seaborn as sns
 from datetime import datetime as dt
-from datetime import timedelta
 import plotly.graph_objs as go
 from functions import *
 from pytube import YouTube
