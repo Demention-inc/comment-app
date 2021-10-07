@@ -3,4 +3,5 @@ src/short/*
 src/csv/*.csv
 src/json/* 
 src/hash_data/* 
+src/sercret/*
 .history/
