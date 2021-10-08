@@ -12,3 +12,4 @@ key={
 }
 
 bucket_name='chat-crawl-708ee.appspot.com'
+project_id = "youtube-chat-crawl"
